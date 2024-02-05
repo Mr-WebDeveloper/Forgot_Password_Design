@@ -1,3 +1,32 @@
+# Forgot Password Design
+
+Hit the "Forgot Password" to Proceeed.
+
+## Use Email: muthu1@gmail.com
+## Use Password: 1234
+
+Find the Bug and Report me in my # LinkedIn 
+
+# Click the Icon to View my LinkedIn Profile
+  <a href="https://www.linkedin.com/in/muthu-kamatchi-a4ba441b8/" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+
+<br />
+<br />
+<br />
+<br />
+<img src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/LoginScreen.PNG" alt="LoginPage" />
+<br />
+<img src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/UserDestination.PNG" alt="UserDestination" />
+<br />
+<img src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Otp_Screen.PNG" alt="OTP_Screen" />
+<br />
+<img src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/ResetPassword.PNG" alt="ResetPassword" />
+
+<img src="https://github.com/Mr-WebDeveloper/Assets/blob/master/Images/Dashboard.PNG" alt="Dashboard" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
